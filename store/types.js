@@ -1,0 +1,6 @@
+export const CLICK_NUMBER = 'CLICK_NUMBER';
+export const CLICK_OPERATOR = 'CLICK_OPERATOR';
+export const CLICK_CREAR = 'CLICK_CREAR';
+export const CLICK_CONVERT = 'CLICK_CONVERT';
+export const CLICK_RESULT = 'CLICK_RESULT';
+export const CLICK_PROCENT = 'CLICK_PROCENT';
